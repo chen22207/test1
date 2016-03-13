@@ -1,5 +1,5 @@
 public class User{
-	private String nname;
-	private int aage;
-	private String aaddress;
+	private String nnamee;
+	private int aagee;
+	private String aaddresss;
 }
